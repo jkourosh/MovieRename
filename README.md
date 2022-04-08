@@ -1,4 +1,4 @@
-# Movie Rename
+# Automatic Rename Movies in Folder based on Date .
 Raneme Movies Based on Date ,In Current Folder Batch
 
 
@@ -7,7 +7,7 @@ Raneme Movies Based on Date ,In Current Folder Batch
 
 
 
-#### Automatoc Rename Movies in Folder based on Date .
+
 
 
 ## *Author Name*
